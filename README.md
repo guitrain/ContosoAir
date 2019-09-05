@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/CHAFJAS/CHAFJAS/_apis/build/status/guitrain.ContosoAir?branchName=master)](https://dev.azure.com/CHAFJAS/CHAFJAS/_build/latest?definitionId=2&branchName=master)
 
 
 # Microsoft.Github CI Demo
